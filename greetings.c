@@ -2,5 +2,7 @@
 int main()
 {
 printf("Hello there!");
+
+printf("General Kenobi");
 return 0;
 }
